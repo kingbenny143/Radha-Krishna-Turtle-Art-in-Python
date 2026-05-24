@@ -1,25 +1,25 @@
 # 🎨 Radha Krishna Turtle Art
 
-A detailed artistic drawing of **Radha and Krishna** created entirely using **Python Turtle Graphics**.
+A beautiful artistic drawing of **Radha and Krishna** created entirely using **Python Turtle Graphics**.
 
-This project demonstrates how mathematical curves and turtle movements can be used to create complex digital art in Python.
+This project showcases how Turtle Graphics can be used to create complex digital artwork with curves, patterns, and detailed line art.
 
 ---
 
 ## ✨ Features
 
 - Detailed Radha & Krishna artwork
-- Peacock feather design
-- Krishna flute drawing
-- Smooth curve-based graphics
+- Krishna flute design
+- Peacock feather art
+- Smooth curve-based drawing
 - Pure Python implementation
-- Beginner-friendly Turtle Graphics project
+- Creative coding project
 
 ---
 
 ## 📸 Preview
 
-You can run the script to see the artwork being drawn live on the screen.
+Run the script to watch the complete artwork being drawn step by step on the screen.
 
 ---
 
@@ -32,7 +32,65 @@ You can run the script to see the artwork being drawn live on the screen.
 
 ## ▶️ How to Run
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/repository-name.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd repository-name
+```
+
+### 3. Run the Python file
+
+```bash
+python main.py
+```
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── main.py
+├── README.md
+├── LICENSE
+```
+
+---
+
+## 🎯 Concepts Used
+
+- Turtle Graphics
+- Python Drawing
+- Curves & Circles
+- Coordinate Positioning
+- Creative Coding
+
+---
+
+## 📷 Technologies Used
+
+- Python
+- Turtle Graphics
+
+---
+
+## ❤️ Inspiration
+
+Inspired by Indian mythology and traditional Radha Krishna artwork.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by Anand Anish Raj
