@@ -35,13 +35,13 @@ Run the script to watch the complete artwork being drawn step by step on the scr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/kingbenny143/Radha-Krishna-Turtle-Art-in-Python.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd repository-name
+cd Radha-Krishna-Turtle-Art-in-Python
 ```
 
 ### 3. Run the Python file
